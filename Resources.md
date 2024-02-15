@@ -6,5 +6,5 @@
 2. ## Crash Course in Quantum Computing Using Very Colorful Diagrams
    https://towardsdatascience.com/quantum-computing-with-colorful-diagrams-8f7861cfb6da
 
-3. Qa2. Explaining Variational Quantum Classifiers
+3. ## Qa2. Explaining Variational Quantum Classifiers
    https://medium.com/swlh/qa2-explaining-variational-quantum-classifiers-b584c3bd7849
